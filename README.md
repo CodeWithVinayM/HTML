@@ -1,4 +1,4 @@
-## html
+
 ## Project Structure
 
 - `html/`: Contains the main files for the project
